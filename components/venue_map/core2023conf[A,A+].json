@@ -1,0 +1,2624 @@
+[
+    {
+        "name": "National Conference of the American Association for Artificial Intelligence",
+        "type": "Conference",
+        "acronyms": [
+            "AAAI"
+        ],
+        "dblp": "aaai"
+    },
+    {
+        "name": "International Conference on Autonomous Agents and Multiagent Systems",
+        "type": "Conference",
+        "acronyms": [
+            "AAMAS"
+        ],
+        "dblp": "atal"
+    },
+    {
+        "name": "Association of Computational Linguistics",
+        "type": "Conference",
+        "acronyms": [
+            "ACL"
+        ],
+        "dblp": "acl"
+    },
+    {
+        "name": "ACM Multimedia Conference",
+        "type": "Conference",
+        "acronyms": [
+            "ACMMM",
+            "MM"
+        ],
+        "dblp": "mm"
+    },
+    {
+        "name": "Architectural Support for Programming Languages and Operating Systems",
+        "type": "Conference",
+        "acronyms": [
+            "ASPLOS"
+        ],
+        "dblp": "asplos"
+    },
+    {
+        "name": "Computer Aided Verification",
+        "type": "Conference",
+        "acronyms": [
+            "CAV"
+        ],
+        "dblp": "cav"
+    },
+    {
+        "name": "ACM Conference on Computer and Communications Security",
+        "type": "Conference",
+        "acronyms": [
+            "CCS"
+        ],
+        "dblp": "ccs"
+    },
+    {
+        "name": "International Conference on Human Factors in Computing Systems",
+        "type": "Conference",
+        "acronyms": [
+            "CHI"
+        ],
+        "dblp": "chi"
+    },
+    {
+        "name": "Annual Conference on Computational Learning Theory",
+        "type": "Conference",
+        "acronyms": [
+            "COLT"
+        ],
+        "dblp": "colt"
+    },
+    {
+        "name": "Advances in Cryptology",
+        "type": "Conference",
+        "acronyms": [
+            "CRYPTO"
+        ],
+        "dblp": "ccs"
+    },
+    {
+        "name": "Computer Supported Collaborative Learning",
+        "type": "Conference",
+        "acronyms": [
+            "CSCL"
+        ],
+        "dblp": "cscl"
+    },
+    {
+        "name": "IEEE Data Compression Conference",
+        "type": "Conference",
+        "acronyms": [
+            "DCC"
+        ],
+        "dblp": "sigcomm"
+    },
+    {
+        "name": "International Conference on Dependable Systems",
+        "type": "Conference",
+        "acronyms": [
+            "DSN"
+        ],
+        "dblp": "dsn"
+    },
+    {
+        "name": "International Conference on the Theory and Application of Cryptographic Techniques",
+        "type": "Conference",
+        "acronyms": [
+            "EuroCrypt"
+        ],
+        "dblp": "eurocrypt"
+    },
+    {
+        "name": "IEEE Symposium on Foundations of Computer Science",
+        "type": "Conference",
+        "acronyms": [
+            "FOCS"
+        ],
+        "dblp": "focs"
+    },
+    {
+        "name": "Foundations of Genetic Algorithms",
+        "type": "Conference",
+        "acronyms": [
+            "FOGA"
+        ],
+        "dblp": "foga"
+    },
+    {
+        "name": "IEEE Symposium on High Performance Computer Architecture",
+        "type": "Conference",
+        "acronyms": [
+            "HPCA"
+        ],
+        "dblp": "hpca"
+    },
+    {
+        "name": "ACM-SIGRAPH Interactive 3D Graphics",
+        "type": "Conference",
+        "acronyms": [
+            "I3DG"
+        ],
+        "dblp": "si3d"
+    },
+    {
+        "name": "International Conference on Automated Planning and Scheduling",
+        "type": "Conference",
+        "acronyms": [
+            "ICAPS"
+        ],
+        "dblp": "icaps"
+    },
+    {
+        "name": "IEEE International Conference on Computer Vision",
+        "type": "Conference",
+        "acronyms": [
+            "ICCV"
+        ],
+        "dblp": "iccv"
+    },
+    {
+        "name": "IEEE International Conference on Data Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "ICDE"
+        ],
+        "dblp": "icde"
+    },
+    {
+        "name": "IEEE International Conference on Data Mining",
+        "type": "Conference",
+        "acronyms": [
+            "ICDM"
+        ],
+        "dblp": "icdm"
+    },
+    {
+        "name": "International Conference on Functional Programming",
+        "type": "Conference",
+        "acronyms": [
+            "ICFP"
+        ],
+        "dblp": "icfp"
+    },
+    {
+        "name": "International Conference on Information Systems",
+        "type": "Conference",
+        "acronyms": [
+            "ICIS"
+        ],
+        "dblp": "icis"
+    },
+    {
+        "name": "International Conference on Machine Learning",
+        "type": "Conference",
+        "acronyms": [
+            "ICML"
+        ],
+        "dblp": "icml"
+    },
+    {
+        "name": "International Conference on Software Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "ICSE"
+        ],
+        "dblp": "icse"
+    },
+    {
+        "name": "International Joint Conference on Artificial Intelligence",
+        "type": "Conference",
+        "acronyms": [
+            "IJCAI"
+        ],
+        "dblp": "ijcai"
+    },
+    {
+        "name": "International Joint Conference on Automated Reasoning",
+        "type": "Conference",
+        "acronyms": [
+            "IJCAR"
+        ],
+        "dblp": "ijcar"
+    },
+    {
+        "name": "Joint Conference of the IEEE Computer and Communications Societies",
+        "type": "Conference",
+        "acronyms": [
+            "INFOCOM"
+        ],
+        "dblp": "infocom"
+    },
+    {
+        "name": "IEEE Information Visualization Conference",
+        "type": "Conference",
+        "acronyms": [
+            "InfoVis"
+        ],
+        "dblp": "infovis"
+    },
+    {
+        "name": "Information Processing in Sensor Networks",
+        "type": "Conference",
+        "acronyms": [
+            "IPSN"
+        ],
+        "dblp": "ipsn"
+    },
+    {
+        "name": "ACM International Symposium on Computer Architecture",
+        "type": "Conference",
+        "acronyms": [
+            "ISCA"
+        ],
+        "dblp": "isca"
+    },
+    {
+        "name": "IEEE and ACM International Symposium on Mixed and Augmented Reality",
+        "type": "Conference",
+        "acronyms": [
+            "ISMAR"
+        ],
+        "dblp": "ismar"
+    },
+    {
+        "name": "International. Symposium on Symbolic and Algebraic Computation",
+        "type": "Conference",
+        "acronyms": [
+            "ISSAC"
+        ],
+        "dblp": "issac"
+    },
+    {
+        "name": "IEEE International Symposium on Wearable Computing",
+        "type": "Conference",
+        "acronyms": [
+            "ISWC"
+        ],
+        "dblp": "iswc"
+    },
+    {
+        "name": "IFIP International Workshop on QoS",
+        "type": "Conference",
+        "acronyms": [
+            "IWQoS"
+        ],
+        "dblp": "iwqos"
+    },
+    {
+        "name": "ACM Conference on Digital Libraries",
+        "type": "Conference",
+        "acronyms": [
+            "JCDL"
+        ],
+        "dblp": "jcdl"
+    },
+    {
+        "name": "International Conference on Principles of KR & Reasoning",
+        "type": "Conference",
+        "acronyms": [
+            "KR"
+        ],
+        "dblp": "kr"
+    },
+    {
+        "name": "IEEE Symposium on Logic in Computer Science",
+        "type": "Conference",
+        "acronyms": [
+            "LICS"
+        ],
+        "dblp": "lics"
+    },
+    {
+        "name": "ACM International Conferencem on Mobile Computing and Networking",
+        "type": "Conference",
+        "acronyms": [
+            "MOBICOM"
+        ],
+        "dblp": "mobicom"
+    },
+    {
+        "name": "Advances in Neural Information Processing Systems",
+        "type": "Conference",
+        "acronyms": [
+            "NIPS"
+        ],
+        "dblp": "nips"
+    },
+    {
+        "name": "ACM Conference on Object Oriented Programming Systems Languages and Applications",
+        "type": "Conference",
+        "acronyms": [
+            "OOPSLA"
+        ],
+        "dblp": "oopsla"
+    },
+    {
+        "name": "Usenix Symposium on Operating Systems Design and Implementation",
+        "type": "Conference",
+        "acronyms": [
+            "OSDI"
+        ],
+        "dblp": "osdi"
+    },
+    {
+        "name": "IEEE International Conference on Pervasive Computing and Communications",
+        "type": "Conference",
+        "acronyms": [
+            "PERCOM"
+        ],
+        "dblp": "percom"
+    },
+    {
+        "name": "International Conference on Pervasive Computing",
+        "type": "Conference",
+        "acronyms": [
+            "PERVASIVE"
+        ],
+        "dblp": "pervasive"
+    },
+    {
+        "name": "ACM-SIGPLAN Conference on Programming Language Design & Implementation",
+        "type": "Conference",
+        "acronyms": [
+            "PLDI"
+        ],
+        "dblp": "pldi"
+    },
+    {
+        "name": "ACM Symposium on Principles of Distributed Computing",
+        "type": "Conference",
+        "acronyms": [
+            "PODC"
+        ],
+        "dblp": "podc"
+    },
+    {
+        "name": "ACM SIGMOD-SIGACT-SIGART Conferenceon Principles of Database Systems",
+        "type": "Conference",
+        "acronyms": [
+            "PODS"
+        ],
+        "dblp": "pods"
+    },
+    {
+        "name": "ACM-SIGACT Symposium on Principles of Prog Langs",
+        "type": "Conference",
+        "acronyms": [
+            "POPL"
+        ],
+        "dblp": "popl"
+    },
+    {
+        "name": "Robotics: Systems and Science",
+        "type": "Conference",
+        "acronyms": [
+            "RSS"
+        ],
+        "dblp": "rss"
+    },
+    {
+        "name": "Real Time Systems Symp",
+        "type": "Conference",
+        "acronyms": [
+            "RTSS"
+        ],
+        "dblp": "rtss"
+    },
+    {
+        "name": "ACM Conference on Embedded Networked Sensor Systems",
+        "type": "Conference",
+        "acronyms": [
+            "SENSYS"
+        ],
+        "dblp": "sensys"
+    },
+    {
+        "name": "ACM Conference on Applications, Technologies,Architectures, and Protocols for Computer Communication",
+        "type": "Conference",
+        "acronyms": [
+            "SIGCOMM"
+        ],
+        "dblp": "sigcomm"
+    },
+    {
+        "name": "ACM SIG International Conference on Computer Graphics and Interactive Techniques",
+        "type": "Conference",
+        "acronyms": [
+            "SIGGRAPH"
+        ],
+        "dblp": "siggraph"
+    },
+    {
+        "name": "ACM International Conference on Research and Development in Information Retrieval",
+        "type": "Conference",
+        "acronyms": [
+            "SIGIR"
+        ],
+        "dblp": "sigir"
+    },
+    {
+        "name": "ACM International Conference on Knowledge Discovery and Data Mining",
+        "type": "Conference",
+        "acronyms": [
+            "SIGKDD"
+        ],
+        "dblp": "kdd"
+    },
+    {
+        "name": "ACM SIG on computer and communications metrics and performance",
+        "type": "Conference",
+        "acronyms": [
+            "SIGMETRICS"
+        ],
+        "dblp": "sigmetrics"
+    },
+    {
+        "name": "ACM Special Interest Group on Management of Data Conference",
+        "type": "Conference",
+        "acronyms": [
+            "SIGMOD"
+        ],
+        "dblp": "sigmod"
+    },
+    {
+        "name": "ACM/SIAM Symposium on Discrete Algorithms",
+        "type": "Conference",
+        "acronyms": [
+            "SODA"
+        ],
+        "dblp": "soda"
+    },
+    {
+        "name": "ACM SIGOPS Symposium on Operating Systems Principles",
+        "type": "Conference",
+        "acronyms": [
+            "SOSP"
+        ],
+        "dblp": "sosp"
+    },
+    {
+        "name": "ACM Symposium on Theory of Computing",
+        "type": "Conference",
+        "acronyms": [
+            "STOC"
+        ],
+        "dblp": "stoc"
+    },
+    {
+        "name": "Conference in Uncertainty in Artifical Intelligence",
+        "type": "Conference",
+        "acronyms": [
+            "UAI"
+        ],
+        "dblp": "uai"
+    },
+    {
+        "name": "Uniquitous Computing",
+        "type": "Conference",
+        "acronyms": [
+            "UbiComp"
+        ],
+        "dblp": "huc"
+    },
+    {
+        "name": "International Conference on Very Large Databases",
+        "type": "Conference",
+        "acronyms": [
+            "VLDB"
+        ],
+        "dblp": "vldb"
+    },
+    {
+        "name": "International World Wide Web Conference",
+        "type": "Conference",
+        "acronyms": [
+            "WWW"
+        ],
+        "dblp": "www"
+    },
+    {
+        "name": "ACM Hypertext Conf",
+        "type": "Conference",
+        "acronyms": [
+            "ACM-HT"
+        ],
+        "dblp": "ht"
+    },
+    {
+        "name": "International Conference on Adaptive Hypermedia and Adaptive Web-Based Systems",
+        "type": "Conference",
+        "acronyms": [
+            "AH"
+        ],
+        "dblp": "ah"
+    },
+    {
+        "name": "International Conference on AI in Design",
+        "type": "Conference",
+        "acronyms": [
+            "AID"
+        ],
+        "dblp": "aid"
+    },
+    {
+        "name": "International Conference on Artificial Intelligence in Education",
+        "type": "Conference",
+        "acronyms": [
+            "AIED"
+        ],
+        "dblp": "aied"
+    },
+    {
+        "name": "Artificial Intelligence in Medicine in Europe",
+        "type": "Conference",
+        "acronyms": [
+            "AIME"
+        ],
+        "dblp": "aime"
+    },
+    {
+        "name": "Advances in Modal Logic",
+        "type": "Conference",
+        "acronyms": [
+            "AiML"
+        ],
+        "dblp": "aiml"
+    },
+    {
+        "name": "Workshop on Algorithm Engineering and Experiments",
+        "type": "Conference",
+        "acronyms": [
+            "ALENEX"
+        ],
+        "dblp": "alenex"
+    },
+    {
+        "name": "International Conference on the Simulation and Synthesis of Living Systems",
+        "type": "Conference",
+        "acronyms": [
+            "ALIFE"
+        ],
+        "dblp": "alife"
+    },
+    {
+        "name": "Artificial Intelligence and Maths",
+        "type": "Conference",
+        "acronyms": [
+            "AMAI"
+        ],
+        "dblp": "amai"
+    },
+    {
+        "name": "American Medical Informatics Annual Fall Symposium",
+        "type": "Conference",
+        "acronyms": [
+            "AMIA"
+        ],
+        "dblp": "amia"
+    },
+    {
+        "name": "Aspect-Oriented Software Development",
+        "type": "Conference",
+        "acronyms": [
+            "AOSD"
+        ],
+        "dblp": "aosd"
+    },
+    {
+        "name": "International Workshop on Approximation Algorithms for Combinatorial Optimization Problems",
+        "type": "Conference",
+        "acronyms": [
+            "APPROX"
+        ],
+        "dblp": "approx"
+    },
+    {
+        "name": "International Conference on Apps for Specific Array Processors",
+        "type": "Conference",
+        "acronyms": [
+            "ASAP"
+        ],
+        "dblp": "asap"
+    },
+    {
+        "name": "Automated Software Engineering Conference",
+        "type": "Conference",
+        "acronyms": [
+            "ASE"
+        ],
+        "dblp": "kbse"
+    },
+    {
+        "name": "International Conference on the Theory and Applications of Cryptology",
+        "type": "Conference",
+        "acronyms": [
+            "ASIACRYPT"
+        ],
+        "dblp": "asiacrypt"
+    },
+    {
+        "name": "Annual conference of American Society for Information Science and Technology",
+        "type": "Conference",
+        "acronyms": [
+            "ASIS&T"
+        ],
+        "dblp": "asist"
+    },
+    {
+        "name": "International Symposium on Automated Technology for Verification and Analysis",
+        "type": "Conference",
+        "acronyms": [
+            "ATVA"
+        ],
+        "dblp": "atva"
+    },
+    {
+        "name": "Advanced Video and Signal Based Surveillance",
+        "type": "Conference",
+        "acronyms": [
+            "AVSS"
+        ],
+        "dblp": "avss"
+    },
+    {
+        "name": "British Machine Vision Conference",
+        "type": "Conference",
+        "acronyms": [
+            "BMVC"
+        ],
+        "dblp": "bmvc"
+    },
+    {
+        "name": "International Conference in Business Process Management",
+        "type": "Conference",
+        "acronyms": [
+            "BPM"
+        ],
+        "dblp": "bpm"
+    },
+    {
+        "name": "International Conference on Automated Deduction",
+        "type": "Conference",
+        "acronyms": [
+            "CADE"
+        ],
+        "dblp": "cade"
+    },
+    {
+        "name": "International Conference on Computer Analysis of Images and Patterns",
+        "type": "Conference",
+        "acronyms": [
+            "CAIP"
+        ],
+        "dblp": "caip"
+    },
+    {
+        "name": "International Conference on Advanced Information Systems Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "CaiSE"
+        ],
+        "dblp": "caise"
+    },
+    {
+        "name": "Computer Animation",
+        "type": "Conference",
+        "acronyms": [
+            "CANIM"
+        ],
+        "dblp": "sca"
+    },
+    {
+        "name": "International Conference on Compilers, Architecture, and Synthesis for Embedded Systems",
+        "type": "Conference",
+        "acronyms": [
+            "CASES"
+        ],
+        "dblp": "cases"
+    },
+    {
+        "name": "International Symposium Component-Based Software Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "CBSE"
+        ],
+        "dblp": "cbse"
+    },
+    {
+        "name": "International Conference on Compiler Construction",
+        "type": "Conference",
+        "acronyms": [
+            "CC"
+        ],
+        "dblp": "cc"
+    },
+    {
+        "name": "IEEE Symposium on Computational Complexity",
+        "type": "Conference",
+        "acronyms": [
+            "CCC"
+        ],
+        "dblp": "coco"
+    },
+    {
+        "name": "IEEE Symposium on Cluster Computing and the Grid",
+        "type": "Conference",
+        "acronyms": [
+            "CCGRID"
+        ],
+        "dblp": "ccgrid"
+    },
+    {
+        "name": "IEEE Conference on Decision and Control",
+        "type": "Conference",
+        "acronyms": [
+            "CDC"
+        ],
+        "dblp": "cdc"
+    },
+    {
+        "name": "Computer Graphics International",
+        "type": "Conference",
+        "acronyms": [
+            "CGI"
+        ],
+        "dblp": "cgi"
+    },
+    {
+        "name": "Code Generation and Optimization",
+        "type": "Conference",
+        "acronyms": [
+            "CGO"
+        ],
+        "dblp": "cgo"
+    },
+    {
+        "name": "Conference on Innovative Data Systems Research",
+        "type": "Conference",
+        "acronyms": [
+            "CIDR"
+        ],
+        "dblp": "cidr"
+    },
+    {
+        "name": "ACM International Conference on Information and Knowledge Management",
+        "type": "Conference",
+        "acronyms": [
+            "CIKM"
+        ],
+        "dblp": "cikm"
+    },
+    {
+        "name": "Cluster Computing Conference",
+        "type": "Conference",
+        "acronyms": [
+            "CLUSTER"
+        ],
+        "dblp": "cluster"
+    },
+    {
+        "name": "International Conference on Computing and Combinatorics",
+        "type": "Conference",
+        "acronyms": [
+            "COCOON"
+        ],
+        "dblp": "cocoon"
+    },
+    {
+        "name": "Annual Conference of the Cognitive Science Society",
+        "type": "Conference",
+        "acronyms": [
+            "CogSci"
+        ],
+        "dblp": "cogsci"
+    },
+    {
+        "name": "International Conference on Computational Liguistics",
+        "type": "Conference",
+        "acronyms": [
+            "COLING"
+        ],
+        "dblp": "coling"
+    },
+    {
+        "name": "International Conference on Concurrency Theory",
+        "type": "Conference",
+        "acronyms": [
+            "CONCUR"
+        ],
+        "dblp": "concur"
+    },
+    {
+        "name": "Conference on Natural Language Learning",
+        "type": "Conference",
+        "acronyms": [
+            "CoNLL"
+        ],
+        "dblp": "conll"
+    },
+    {
+        "name": "International Conference on Cooperative Information Systems",
+        "type": "Conference",
+        "acronyms": [
+            "CoopIS"
+        ],
+        "dblp": "coopis"
+    },
+    {
+        "name": "International Conference on Coordination Models and Lanuguages",
+        "type": "Conference",
+        "acronyms": [
+            "Coordination"
+        ],
+        "dblp": "coordination"
+    },
+    {
+        "name": "International Conference on Principles & Practice of Constraint Programming",
+        "type": "Conference",
+        "acronyms": [
+            "CP"
+        ],
+        "dblp": "cp"
+    },
+    {
+        "name": "International Conference on Integration of Artificial Intelligence and Operations Research Techniques in Constraint Programming for Combinatorial Optimization Problems",
+        "type": "Conference",
+        "acronyms": [
+            "CPAIOR"
+        ],
+        "dblp": "cpaior"
+    },
+    {
+        "name": "IEEE Computational Systems Bioinformatics Conference",
+        "type": "Conference",
+        "acronyms": [
+            "CSB"
+        ],
+        "dblp": "csb"
+    },
+    {
+        "name": "ACM Conference on Computer Supported Cooperative Work",
+        "type": "Conference",
+        "acronyms": [
+            "CSCW"
+        ],
+        "dblp": "cscw"
+    },
+    {
+        "name": "IEEE Computer Security Foundations Workshop",
+        "type": "Conference",
+        "acronyms": [
+            "CSFW"
+        ],
+        "dblp": "csfw"
+    },
+    {
+        "name": "IEEE Conference on Computer Vision and Pattern Recognition",
+        "type": "Conference",
+        "acronyms": [
+            "CVPR"
+        ],
+        "dblp": "cvpr"
+    },
+    {
+        "name": "Design Automation Conf",
+        "type": "Conference",
+        "acronyms": [
+            "DAC"
+        ],
+        "dblp": "dac"
+    },
+    {
+        "name": "International Workshop on Document Analysis Systems",
+        "type": "Conference",
+        "acronyms": [
+            "DAS"
+        ],
+        "dblp": "das"
+    },
+    {
+        "name": "Database Systems for Advanced Applications",
+        "type": "Conference",
+        "acronyms": [
+            "DASFAA"
+        ],
+        "dblp": "dasfaa"
+    },
+    {
+        "name": "IEEE/ACM Design, Automation & Test in Europe Conference",
+        "type": "Conference",
+        "acronyms": [
+            "DATE"
+        ],
+        "dblp": "date"
+    },
+    {
+        "name": "International Conference on Database and Expert Systems Applications",
+        "type": "Conference",
+        "acronyms": [
+            "DEXA"
+        ],
+        "dblp": "dexa"
+    },
+    {
+        "name": "Digital Games Research Conference",
+        "type": "Conference",
+        "acronyms": [
+            "DIGRA"
+        ],
+        "dblp": "digra"
+    },
+    {
+        "name": "Designing Interactive Systems",
+        "type": "Conference",
+        "acronyms": [
+            "DIS"
+        ],
+        "dblp": "ACMdis"
+    },
+    {
+        "name": "International Symposium on Distributed Computing (ex WDAG)",
+        "type": "Conference",
+        "acronyms": [
+            "DISC",
+            "WDAG"
+        ],
+        "dblp": "wdag"
+    },
+    {
+        "name": "ACM Symposium on Document Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "DocEng"
+        ],
+        "dblp": "doceng"
+    },
+    {
+        "name": "Deductive and Object-Oriented Databases",
+        "type": "Conference",
+        "acronyms": [
+            "DOOD"
+        ],
+        "dblp": "dood"
+    },
+    {
+        "name": "Design for User Experience",
+        "type": "Conference",
+        "acronyms": [
+            "DUX"
+        ],
+        "dblp": "dux"
+    },
+    {
+        "name": "Engineering Applications of Artifical Intelligence",
+        "type": "Conference",
+        "acronyms": [
+            "EAAI"
+        ],
+        "dblp": "eaai"
+    },
+    {
+        "name": "European Association of Computational Linguistics",
+        "type": "Conference",
+        "acronyms": [
+            "EACL"
+        ],
+        "dblp": "eacl"
+    },
+    {
+        "name": "International Conference on Evaluation and Assessment in Software Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "EASE"
+        ],
+        "dblp": "ease"
+    },
+    {
+        "name": "ACM Conference on Electronic Commerce",
+        "type": "Conference",
+        "acronyms": [
+            "EC"
+        ],
+        "dblp": "ec"
+    },
+    {
+        "name": "European Conference on Artificial Intelligence",
+        "type": "Conference",
+        "acronyms": [
+            "ECAI"
+        ],
+        "dblp": "ecai"
+    },
+    {
+        "name": "European Conference on Computer Vision",
+        "type": "Conference",
+        "acronyms": [
+            "ECCV"
+        ],
+        "dblp": "eccv"
+    },
+    {
+        "name": "European Conference on Digital Libraries",
+        "type": "Conference",
+        "acronyms": [
+            "ECDL"
+        ],
+        "dblp": "ercimdl"
+    },
+    {
+        "name": "European Conference on Information Systems",
+        "type": "Conference",
+        "acronyms": [
+            "ECIS"
+        ],
+        "dblp": "ecis"
+    },
+    {
+        "name": "European Conference on Machine Learning",
+        "type": "Conference",
+        "acronyms": [
+            "ECML"
+        ],
+        "dblp": "ecml"
+    },
+    {
+        "name": "European Conference on object-oriented programming",
+        "type": "Conference",
+        "acronyms": [
+            "ECOOP"
+        ],
+        "dblp": "ecoop"
+    },
+    {
+        "name": "Euromicro Conference on Real-Time Systems",
+        "type": "Conference",
+        "acronyms": [
+            "ECRTS"
+        ],
+        "dblp": "ecrts"
+    },
+    {
+        "name": "European Conference on Computer Supported Cooperative Work",
+        "type": "Conference",
+        "acronyms": [
+            "ECSCW"
+        ],
+        "dblp": "ecscw"
+    },
+    {
+        "name": "International Conference on Electronic Commerce and Web Technology",
+        "type": "Conference",
+        "acronyms": [
+            "ECWeb"
+        ],
+        "dblp": "ecweb"
+    },
+    {
+        "name": "Extending Database Technology",
+        "type": "Conference",
+        "acronyms": [
+            "EDBT"
+        ],
+        "dblp": "edbt"
+    },
+    {
+        "name": "International Conference on Knowledge Engineering and Knowledge Management",
+        "type": "Conference",
+        "acronyms": [
+            "EKAW"
+        ],
+        "dblp": "ekaw"
+    },
+    {
+        "name": "Exploring Modelling Methods in Systems Analysis and Design",
+        "type": "Conference",
+        "acronyms": [
+            "EMMSAD"
+        ],
+        "dblp": "emmsad"
+    },
+    {
+        "name": "Empirical Methods in Natural Language Processing",
+        "type": "Conference",
+        "acronyms": [
+            "EMNLP"
+        ],
+        "dblp": "emnlp"
+    },
+    {
+        "name": "ACM Conference on Embedded Software",
+        "type": "Conference",
+        "acronyms": [
+            "EMSOFT"
+        ],
+        "dblp": "emsoft"
+    },
+    {
+        "name": "European Symposium on Algorithms",
+        "type": "Conference",
+        "acronyms": [
+            "ESA"
+        ],
+        "dblp": "esa"
+    },
+    {
+        "name": "IEEE International Conference on e-science and Grid Computing",
+        "type": "Conference",
+        "acronyms": [
+            "e-science",
+            "eScience",
+            "e Science"
+        ],
+        "dblp": "eScience"
+    },
+    {
+        "name": "Internation Symposium on Empirical Software Engineering and Measurement",
+        "type": "Conference",
+        "acronyms": [
+            "ESEM"
+        ],
+        "dblp": "esem"
+    },
+    {
+        "name": "European Symposium on Programming",
+        "type": "Conference",
+        "acronyms": [
+            "ESOP"
+        ],
+        "dblp": "esop"
+    },
+    {
+        "name": "European Symposium on Research in Computer Security",
+        "type": "Conference",
+        "acronyms": [
+            "ESORICS"
+        ],
+        "dblp": "esorics"
+    },
+    {
+        "name": "International Joint Conference on Qualitative and Quantitative Practical Reasoning",
+        "type": "Conference",
+        "acronyms": [
+            "ESQARU"
+        ],
+        "dblp": "ecsqaru"
+    },
+    {
+        "name": "European Semantic Web Conference",
+        "type": "Conference",
+        "acronyms": [
+            "ESWC"
+        ],
+        "dblp": "esws"
+    },
+    {
+        "name": "European Conference on Computational Learning Theory",
+        "type": "Conference",
+        "acronyms": [
+            "EuroCOLT"
+        ],
+        "dblp": "eurocolt"
+    },
+    {
+        "name": "European Graphics Conference",
+        "type": "Conference",
+        "acronyms": [
+            "EUROGRAPH"
+        ],
+        "dblp": "eurographics"
+    },
+    {
+        "name": "International Conference on Parallel Processing",
+        "type": "Conference",
+        "acronyms": [
+            "EuroPar"
+        ],
+        "dblp": "europar"
+    },
+    {
+        "name": "Euopean PVM/MPI Uswers' Group Conference",
+        "type": "Conference",
+        "acronyms": [
+            "EuroPVM/MPI",
+            "EuroPVM",
+            "MPI"
+        ],
+        "dblp": "pvm"
+    },
+    {
+        "name": "European Conference on Speech Communication and Technology",
+        "type": "Conference",
+        "acronyms": [
+            "EuroSpeech"
+        ],
+        "dblp": "eurospeech"
+    },
+    {
+        "name": "European SPI",
+        "type": "Conference",
+        "acronyms": [
+            "EuroSPI"
+        ],
+        "dblp": "eurospi"
+    },
+    {
+        "name": "Eurosys Conference",
+        "type": "Conference",
+        "acronyms": [
+            "EuroSys"
+        ],
+        "dblp": "eurosys"
+    },
+    {
+        "name": "European conference on Wireless Sensor Networks",
+        "type": "Conference",
+        "acronyms": [
+            "EWSN"
+        ],
+        "dblp": "ewsn"
+    },
+    {
+        "name": "IEEE Symposium on Field Programmable Custom Computing Machines",
+        "type": "Conference",
+        "acronyms": [
+            "FCCM"
+        ],
+        "dblp": "fccm"
+    },
+    {
+        "name": "International Symposium on Functional and Logic Programming",
+        "type": "Conference",
+        "acronyms": [
+            "FLOPS"
+        ],
+        "dblp": "flops"
+    },
+    {
+        "name": "Formal Methods Europe",
+        "type": "Conference",
+        "acronyms": [
+            "FME"
+        ],
+        "dblp": "fme"
+    },
+    {
+        "name": "International Conference on Foundation on Data Organization",
+        "type": "Conference",
+        "acronyms": [
+            "FODO"
+        ],
+        "dblp": "fodo"
+    },
+    {
+        "name": "IFIP Joint Int'l Conference on Formal Description Techniques and Protocol Specification, Testing, And Verification",
+        "type": "Conference",
+        "acronyms": [
+            "FORTE"
+        ],
+        "dblp": "forte"
+    },
+    {
+        "name": "ACM Conference on the Foundations of Software Engineering (inc ESEC-FSE when held joInternationaly [sic])",
+        "type": "Conference",
+        "acronyms": [
+            "FSE"
+        ],
+        "dblp": "sigsoft"
+    },
+    {
+        "name": "International Conference on Field and Service Robotics",
+        "type": "Conference",
+        "acronyms": [
+            "FSR"
+        ],
+        "dblp": "fsr"
+    },
+    {
+        "name": "Foundations of Software Technology & Theoretical Computer Science",
+        "type": "Conference",
+        "acronyms": [
+            "FST&TCS"
+        ],
+        "dblp": "fsttcs"
+    },
+    {
+        "name": "IEEE International Conference on Fuzzy Systems",
+        "type": "Conference",
+        "acronyms": [
+            "FUZZ-IEEE"
+        ],
+        "dblp": "fuzzIEEE"
+    },
+    {
+        "name": "Graph Drawing",
+        "type": "Conference",
+        "acronyms": [
+            "GD"
+        ],
+        "dblp": "gd"
+    },
+    {
+        "name": "International Conference on Grid Computing",
+        "type": "Conference",
+        "acronyms": [
+            "Grid"
+        ],
+        "dblp": "grid"
+    },
+    {
+        "name": "ACM Special Interest Group on Supporting Group Work (was SIGGRoup)",
+        "type": "Conference",
+        "acronyms": [
+            "Group"
+        ],
+        "dblp": "group"
+    },
+    {
+        "name": "International Conference on High Performance Computing",
+        "type": "Conference",
+        "acronyms": [
+            "HiPC"
+        ],
+        "dblp": "hipc"
+    },
+    {
+        "name": "Symposium on High Performance Chips",
+        "type": "Conference",
+        "acronyms": [
+            "HOTCHIPS (HCS)"
+        ],
+        "dblp": "hotchips"
+    },
+    {
+        "name": "ACM Workshop on Hot Topics in Networks",
+        "type": "Conference",
+        "acronyms": [
+            "HOTNETS"
+        ],
+        "dblp": "hotnets"
+    },
+    {
+        "name": "USENIX Workshop on Hot Topics in Operating Systems",
+        "type": "Conference",
+        "acronyms": [
+            "HotOS"
+        ],
+        "dblp": "hotos"
+    },
+    {
+        "name": "IEEE International Symposium on High Performance Distributed Computing",
+        "type": "Conference",
+        "acronyms": [
+            "HPDC"
+        ],
+        "dblp": "hpdc"
+    },
+    {
+        "name": "ACM Conference on Hypertext and Hypermedia",
+        "type": "Conference",
+        "acronyms": [
+            "Hypertext"
+        ],
+        "dblp": "ht"
+    },
+    {
+        "name": "International Conference on Computer Communication and Networks",
+        "type": "Conference",
+        "acronyms": [
+            "IC3N"
+        ],
+        "dblp": "icccn"
+    },
+    {
+        "name": "International Conference of Asian Digital Libraries",
+        "type": "Conference",
+        "acronyms": [
+            "ICADL"
+        ],
+        "dblp": "icadl"
+    },
+    {
+        "name": "International Colloquium on Automata, Languages and Programming",
+        "type": "Conference",
+        "acronyms": [
+            "ICALP"
+        ],
+        "dblp": "icalp"
+    },
+    {
+        "name": "IEEE International Conference on Advanced Learning Technologies",
+        "type": "Conference",
+        "acronyms": [
+            "ICALT"
+        ],
+        "dblp": "icalt"
+    },
+    {
+        "name": "International Conference on Control, Automation, Robotics and Vision",
+        "type": "Conference",
+        "acronyms": [
+            "ICARCV"
+        ],
+        "dblp": "icarcv"
+    },
+    {
+        "name": "IEEE International Conference on Communications",
+        "type": "Conference",
+        "acronyms": [
+            "ICC"
+        ],
+        "dblp": "icc"
+    },
+    {
+        "name": "International Conference on Computer-Aided Design",
+        "type": "Conference",
+        "acronyms": [
+            "ICCAD"
+        ],
+        "dblp": "iccad"
+    },
+    {
+        "name": "IEEE International Conference on Computer Languages",
+        "type": "Conference",
+        "acronyms": [
+            "ICCL"
+        ],
+        "dblp": "iccl"
+    },
+    {
+        "name": "International Conference on Computational Science",
+        "type": "Conference",
+        "acronyms": [
+            "ICCS"
+        ],
+        "dblp": "iccsa"
+    },
+    {
+        "name": "International Conference on Conceptual Structures",
+        "type": "Conference",
+        "acronyms": [
+            "ICCS"
+        ],
+        "dblp": "iccs"
+    },
+    {
+        "name": "IEEE International Conference on Document Analysis and Recognition",
+        "type": "Conference",
+        "acronyms": [
+            "ICDAR"
+        ],
+        "dblp": "icdar"
+    },
+    {
+        "name": "IEEE International Conference on Distributed Computing Systems",
+        "type": "Conference",
+        "acronyms": [
+            "ICDCS"
+        ],
+        "dblp": "icdcs"
+    },
+    {
+        "name": "International Conference on Database Theory",
+        "type": "Conference",
+        "acronyms": [
+            "ICDT"
+        ],
+        "dblp": "icdt"
+    },
+    {
+        "name": "IEEE International Conference on Engineering and Complex Computer Systems",
+        "type": "Conference",
+        "acronyms": [
+            "ICECCS"
+        ],
+        "dblp": "iceccs"
+    },
+    {
+        "name": "International Computing Education Research Workshop",
+        "type": "Conference",
+        "acronyms": [
+            "ICER"
+        ],
+        "dblp": "icer"
+    },
+    {
+        "name": "International Conference on Grid Computing",
+        "type": "Conference",
+        "acronyms": [
+            "ICGG"
+        ],
+        "dblp": "gca"
+    },
+    {
+        "name": "International Conference on Image Analysis and Processing",
+        "type": "Conference",
+        "acronyms": [
+            "ICIAP"
+        ],
+        "dblp": "iciap"
+    },
+    {
+        "name": "IEEE International Conference on Image Processing",
+        "type": "Conference",
+        "acronyms": [
+            "ICIP"
+        ],
+        "dblp": "icip"
+    },
+    {
+        "name": "International conference on Logic Programming",
+        "type": "Conference",
+        "acronyms": [
+            "ICLP"
+        ],
+        "dblp": "iclp"
+    },
+    {
+        "name": "International Conference on Multi Agent Systems",
+        "type": "Conference",
+        "acronyms": [
+            "ICMAS"
+        ],
+        "dblp": "icmas"
+    },
+    {
+        "name": "IEEE International Conference on Neural Networks",
+        "type": "Conference",
+        "acronyms": [
+            "ICNN"
+        ],
+        "dblp": "icnn"
+    },
+    {
+        "name": "International Conference on Network Protocols",
+        "type": "Conference",
+        "acronyms": [
+            "ICNP"
+        ],
+        "dblp": "icnp"
+    },
+    {
+        "name": "International Conference on Neural Information Processing",
+        "type": "Conference",
+        "acronyms": [
+            "ICONIP"
+        ],
+        "dblp": "iconip"
+    },
+    {
+        "name": "International Conference on Parallel Processing",
+        "type": "Conference",
+        "acronyms": [
+            "ICPP"
+        ],
+        "dblp": "icpp"
+    },
+    {
+        "name": "International Conference on Pattern Recognition",
+        "type": "Conference",
+        "acronyms": [
+            "ICPR"
+        ],
+        "dblp": "icpr"
+    },
+    {
+        "name": "ACM International Conference on Supercomputing",
+        "type": "Conference",
+        "acronyms": [
+            "ICS"
+        ],
+        "dblp": "ics"
+    },
+    {
+        "name": "International Computer Symposium Conference",
+        "type": "Conference",
+        "acronyms": [
+            "ICSC2"
+        ],
+        "dblp": "icsc2"
+    },
+    {
+        "name": "International. Conferenceon Software Maintenance",
+        "type": "Conference",
+        "acronyms": [
+            "ICSM"
+        ],
+        "dblp": "icsm"
+    },
+    {
+        "name": "International Conference on Service Oriented Computing",
+        "type": "Conference",
+        "acronyms": [
+            "ICSOC"
+        ],
+        "dblp": "icsoc"
+    },
+    {
+        "name": "International Conference on Software Process",
+        "type": "Conference",
+        "acronyms": [
+            "ICSP"
+        ],
+        "dblp": "ispw"
+    },
+    {
+        "name": "International Conference on Security in Pervasive Computing",
+        "type": "Conference",
+        "acronyms": [
+            "ICSPC"
+        ],
+        "dblp": "spc"
+    },
+    {
+        "name": "IEEE International Conference on Software Reuse",
+        "type": "Conference",
+        "acronyms": [
+            "ICSR"
+        ],
+        "dblp": "icsr"
+    },
+    {
+        "name": "International Coference on Temporal Logic",
+        "type": "Conference",
+        "acronyms": [
+            "ICTL"
+        ],
+        "dblp": "ictl"
+    },
+    {
+        "name": "Intelligent Data Analysis",
+        "type": "Conference",
+        "acronyms": [
+            "IDA"
+        ],
+        "dblp": "ida"
+    },
+    {
+        "name": "IEEE International Symposium on Artificial Life",
+        "type": "Conference",
+        "acronyms": [
+            "IEEE-Alife"
+        ],
+        "dblp": "ieeealife"
+    },
+    {
+        "name": "Congress on Evolutionary Computation",
+        "type": "Conference",
+        "acronyms": [
+            "IEEE-CEC"
+        ],
+        "dblp": "cec"
+    },
+    {
+        "name": "IEEE International Conference on Multimedia Computing and Systems",
+        "type": "Conference",
+        "acronyms": [
+            "IEEE-MM"
+        ],
+        "dblp": "mm"
+    },
+    {
+        "name": "IEEE Transactions on Knowledge and Data Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "IEEETKDE"
+        ],
+        "dblp": "icde"
+    },
+    {
+        "name": "IFIP WG 11.3 Working Conference on Data and Applications Security (was IFIP-DBSEC)",
+        "type": "Conference",
+        "acronyms": [
+            "IFIP_WG 11.3"
+        ],
+        "dblp": "dbsec"
+    },
+    {
+        "name": "International Joint Conference on Natural Language Processing",
+        "type": "Conference",
+        "acronyms": [
+            "IJCNLP"
+        ],
+        "dblp": "ijcnlp"
+    },
+    {
+        "name": "IEEE International Joint Conference on Neural Networks",
+        "type": "Conference",
+        "acronyms": [
+            "IJCNN"
+        ],
+        "dblp": "ijcnn"
+    },
+    {
+        "name": "International Logic Programming Symposium",
+        "type": "Conference",
+        "acronyms": [
+            "ILPS"
+        ],
+        "dblp": "slp"
+    },
+    {
+        "name": "IFIP/IEEE Integrated Management (odd years sharing with NOMS)",
+        "type": "Conference",
+        "acronyms": [
+            "IM"
+        ],
+        "dblp": "im"
+    },
+    {
+        "name": "Internet Measurement Conference",
+        "type": "Conference",
+        "acronyms": [
+            "IMC"
+        ],
+        "dblp": "imc"
+    },
+    {
+        "name": "IFIP International Conference on Human-Computer Interaction",
+        "type": "Conference",
+        "acronyms": [
+            "INTERACT"
+        ],
+        "dblp": "interact"
+    },
+    {
+        "name": "MPS Conference on integer programming & combinatorial optimization",
+        "type": "Conference",
+        "acronyms": [
+            "IPCO"
+        ],
+        "dblp": "ipco"
+    },
+    {
+        "name": "IEEE International Parallel and Distributed Processing Symposium (was IPPS and SPDP)",
+        "type": "Conference",
+        "acronyms": [
+            "IPDPS"
+        ],
+        "dblp": "ipps"
+    },
+    {
+        "name": "International Symposium on Algorithms and Computation",
+        "type": "Conference",
+        "acronyms": [
+            "ISAAC"
+        ],
+        "dblp": "isaac"
+    },
+    {
+        "name": "International Conference on Information Systems Development",
+        "type": "Conference",
+        "acronyms": [
+            "ISD"
+        ],
+        "dblp": "isdevel"
+    },
+    {
+        "name": "International Symposium on Empirical Software Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "ISESE"
+        ],
+        "dblp": "isese"
+    },
+    {
+        "name": "Intelligent Systems in Molecular Biology",
+        "type": "Conference",
+        "acronyms": [
+            "ISMB"
+        ],
+        "dblp": "ismb"
+    },
+    {
+        "name": "International Symposium on Robotics",
+        "type": "Conference",
+        "acronyms": [
+            "ISR"
+        ],
+        "dblp": "isr"
+    },
+    {
+        "name": "IEEE International Solid-State Circuits Conference",
+        "type": "Conference",
+        "acronyms": [
+            "ISSCC"
+        ],
+        "dblp": "isscc"
+    },
+    {
+        "name": "International Symposium on Robotics Research",
+        "type": "Conference",
+        "acronyms": [
+            "ISSR"
+        ],
+        "dblp": "isrr"
+    },
+    {
+        "name": "International Symposium on Software Reliability Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "ISSRE"
+        ],
+        "dblp": "issre"
+    },
+    {
+        "name": "Internation Symposium on Software Testing and Analysis",
+        "type": "Conference",
+        "acronyms": [
+            "ISSTA"
+        ],
+        "dblp": "issta"
+    },
+    {
+        "name": "International Conference on Information Systems Technology and its Application",
+        "type": "Conference",
+        "acronyms": [
+            "ISTA"
+        ],
+        "dblp": "istas"
+    },
+    {
+        "name": "Israel Symposium on Theory of Computing and Systems",
+        "type": "Conference",
+        "acronyms": [
+            "ISTCS"
+        ],
+        "dblp": "istcs"
+    },
+    {
+        "name": "International Semantic Web Conference",
+        "type": "Conference",
+        "acronyms": [
+            "ISWC"
+        ],
+        "dblp": "semweb"
+    },
+    {
+        "name": "Annual Conference on Integrating Technology into Computer Science Education",
+        "type": "Conference",
+        "acronyms": [
+            "ITiCSE"
+        ],
+        "dblp": "iticse"
+    },
+    {
+        "name": "International Conference on Intelligent Tutoring Systems",
+        "type": "Conference",
+        "acronyms": [
+            "ITS"
+        ],
+        "dblp": "its"
+    },
+    {
+        "name": "Intelligent User Interfaces",
+        "type": "Conference",
+        "acronyms": [
+            "IUI"
+        ],
+        "dblp": "iui"
+    },
+    {
+        "name": "Image and Vision Computing Conference",
+        "type": "Conference",
+        "acronyms": [
+            "IVCNZ"
+        ],
+        "dblp": "ivcnz"
+    },
+    {
+        "name": "Logics in Artificial Intelligence, European Conference",
+        "type": "Conference",
+        "acronyms": [
+            "JELIA"
+        ],
+        "dblp": "jelia"
+    },
+    {
+        "name": "International Conference/Symposium on Logic Programming (Joint)",
+        "type": "Conference",
+        "acronyms": [
+            "JICSLP/ICLP/ILPS"
+        ],
+        "dblp": "iclp"
+    },
+    {
+        "name": "Knowledge capture",
+        "type": "Conference",
+        "acronyms": [
+            "K-CAP"
+        ],
+        "dblp": "kcap"
+    },
+    {
+        "name": "IEEE Conference on Local Computer Networks",
+        "type": "Conference",
+        "acronyms": [
+            "LCN"
+        ],
+        "dblp": "lcn"
+    },
+    {
+        "name": "ACM SIGPLAN Conference on Languages, Tools, and Compilers for Embedded Systems",
+        "type": "Conference",
+        "acronyms": [
+            "LCTES"
+        ],
+        "dblp": "lctrts"
+    },
+    {
+        "name": "Logic Programming and Automated Reasoning",
+        "type": "Conference",
+        "acronyms": [
+            "LPAR"
+        ],
+        "dblp": "lpar"
+    },
+    {
+        "name": "International Conference on Logic Programming and Non-monotonic Reasoning",
+        "type": "Conference",
+        "acronyms": [
+            "LPNMR"
+        ],
+        "dblp": "lpnmr"
+    },
+    {
+        "name": "Symposium Model Analysis & Simulation of Computer & Telecommunications Systems",
+        "type": "Conference",
+        "acronyms": [
+            "MASCOTS"
+        ],
+        "dblp": "mascots"
+    },
+    {
+        "name": "IEEE International Conference on Mobile Ad-hoc and Sensor Systems",
+        "type": "Conference",
+        "acronyms": [
+            "MASS"
+        ],
+        "dblp": "mass"
+    },
+    {
+        "name": "International Symposium on Microarchitecture",
+        "type": "Conference",
+        "acronyms": [
+            "MICRO"
+        ],
+        "dblp": "micro"
+    },
+    {
+        "name": "ACM/IFIP/USENIX th International Middleware Conference",
+        "type": "Conference",
+        "acronyms": [
+            "Middleware"
+        ],
+        "dblp": "middleware"
+    },
+    {
+        "name": "ACM SIGMM International Woekshop on Multimedia Information Retrieval",
+        "type": "Conference",
+        "acronyms": [
+            "MIR"
+        ],
+        "dblp": "mir"
+    },
+    {
+        "name": "International Workshop on Multimedia Signal Processing",
+        "type": "Conference",
+        "acronyms": [
+            "MMSP"
+        ],
+        "dblp": "mmsp"
+    },
+    {
+        "name": "ACM Symposium of mobile and ad hoc computing",
+        "type": "Conference",
+        "acronyms": [
+            "MOBIHOC"
+        ],
+        "dblp": "mobihoc"
+    },
+    {
+        "name": "International Conference on Human-Computer Interaction with Mobile Devices and Services",
+        "type": "Conference",
+        "acronyms": [
+            "MobileHCI"
+        ],
+        "dblp": "mhci"
+    },
+    {
+        "name": "International Conference on Mobile and Ubiquitous Systems: Networks and Services",
+        "type": "Conference",
+        "acronyms": [
+            "Mobiquitous"
+        ],
+        "dblp": "mobiquitous"
+    },
+    {
+        "name": "ACM SIGMOBILE International Conference on mobile systems, applications and services",
+        "type": "Conference",
+        "acronyms": [
+            "Mobisys"
+        ],
+        "dblp": "mobisys"
+    },
+    {
+        "name": "International Conference on the Unified Modeling Language (formerly UML)",
+        "type": "Conference",
+        "acronyms": [
+            "MODELS"
+        ],
+        "dblp": "uml"
+    },
+    {
+        "name": "ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems",
+        "type": "Conference",
+        "acronyms": [
+            "MSWIM"
+        ],
+        "dblp": "mswim"
+    },
+    {
+        "name": "North American Association for Computational Linguistics",
+        "type": "Conference",
+        "acronyms": [
+            "NAACL"
+        ],
+        "dblp": "naacl"
+    },
+    {
+        "name": "Usenix Networked and Distributed System Security Symposium",
+        "type": "Conference",
+        "acronyms": [
+            "NDSS"
+        ],
+        "dblp": "ndss"
+    },
+    {
+        "name": "IFIP Networking 200X",
+        "type": "Conference",
+        "acronyms": [
+            "Networking 200X"
+        ],
+        "dblp": "networking"
+    },
+    {
+        "name": "Network and OS Support for Digital A/V",
+        "type": "Conference",
+        "acronyms": [
+            "NOSSDAV"
+        ],
+        "dblp": "nossdav"
+    },
+    {
+        "name": "Symposium on Networked Systems, Design and Implementation",
+        "type": "Conference",
+        "acronyms": [
+            "NSDI"
+        ],
+        "dblp": "nsdi"
+    },
+    {
+        "name": "IEEE International Conference on Peer-toPeer Computing",
+        "type": "Conference",
+        "acronyms": [
+            "P2P"
+        ],
+        "dblp": "hpdc"
+    },
+    {
+        "name": "International Conference on Parallel Architecture and Compilation Techniques",
+        "type": "Conference",
+        "acronyms": [
+            "PACT"
+        ],
+        "dblp": "IEEEpact"
+    },
+    {
+        "name": "Practical Aspects of Declarative Languages",
+        "type": "Conference",
+        "acronyms": [
+            "PADL"
+        ],
+        "dblp": "padl"
+    },
+    {
+        "name": "ACM/IEEE/SCS Workshop on Parallel & Distributed Simulation",
+        "type": "Conference",
+        "acronyms": [
+            "PADS"
+        ],
+        "dblp": "pads"
+    },
+    {
+        "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+        "type": "Conference",
+        "acronyms": [
+            "PAKDD"
+        ],
+        "dblp": "pakdd"
+    },
+    {
+        "name": "Participatory Design Conference",
+        "type": "Conference",
+        "acronyms": [
+            "PDC"
+        ],
+        "dblp": "pdc"
+    },
+    {
+        "name": "ACM SIGPLAN Workshop on Partial Evalutation and Program Manipulation",
+        "type": "Conference",
+        "acronyms": [
+            "PEPM"
+        ],
+        "dblp": "pepm"
+    },
+    {
+        "name": "IFIP International Symposium on Computing Performance, Modelling, Measurement and Evaluation",
+        "type": "Conference",
+        "acronyms": [
+            "PERFORMANCE"
+        ],
+        "dblp": "performance"
+    },
+    {
+        "name": "Pacific Graphics",
+        "type": "Conference",
+        "acronyms": [
+            "PG"
+        ],
+        "dblp": "pg"
+    },
+    {
+        "name": "European Conference on Principles and Practice of Knowledge Discovery in Databases",
+        "type": "Conference",
+        "acronyms": [
+            "PKDD"
+        ],
+        "dblp": "pkdd"
+    },
+    {
+        "name": "Principles and Practice of Parallel Programming",
+        "type": "Conference",
+        "acronyms": [
+            "PPoPP"
+        ],
+        "dblp": "ppopp"
+    },
+    {
+        "name": "Parallel Problem Solving from Nature",
+        "type": "Conference",
+        "acronyms": [
+            "PPSN"
+        ],
+        "dblp": "ppsn"
+    },
+    {
+        "name": "IFIP Working Conferences on Virtual Enterprises",
+        "type": "Conference",
+        "acronyms": [
+            "PRO-VE"
+        ],
+        "dblp": "ifip5-5"
+    },
+    {
+        "name": "Conference on the Quality of Software Architectures",
+        "type": "Conference",
+        "acronyms": [
+            "QoSA"
+        ],
+        "dblp": "qosa"
+    },
+    {
+        "name": "International Quality Software Conference",
+        "type": "Conference",
+        "acronyms": [
+            "QSIC"
+        ],
+        "dblp": "qsic"
+    },
+    {
+        "name": "Symposium on Recent Advances in Intrusion Detection",
+        "type": "Conference",
+        "acronyms": [
+            "RAID"
+        ],
+        "dblp": "raid"
+    },
+    {
+        "name": "International Workshop on Randomization and Computation",
+        "type": "Conference",
+        "acronyms": [
+            "RANDOM"
+        ],
+        "dblp": "random"
+    },
+    {
+        "name": "IEEE Requirements Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "RE"
+        ],
+        "dblp": "re"
+    },
+    {
+        "name": "Annual International Conferenceon Comp Molecular Biology",
+        "type": "Conference",
+        "acronyms": [
+            "RECOMB"
+        ],
+        "dblp": "recomb"
+    },
+    {
+        "name": "Robot Soccer World Cup",
+        "type": "Conference",
+        "acronyms": [
+            "RoboCup"
+        ],
+        "dblp": "robocup"
+    },
+    {
+        "name": "International Conference on Rewriting Techniques and Applications",
+        "type": "Conference",
+        "acronyms": [
+            "RTA"
+        ],
+        "dblp": "rta"
+    },
+    {
+        "name": "IEEE Real-Time and Embedded Technology and Applications Symposium",
+        "type": "Conference",
+        "acronyms": [
+            "RTAS"
+        ],
+        "dblp": "rtas"
+    },
+    {
+        "name": "IEEE Symposium on Security and Privacy",
+        "type": "Conference",
+        "acronyms": [
+            "S&P"
+        ],
+        "dblp": "sp"
+    },
+    {
+        "name": "Symposium on Abstraction, Reformulation and Approximation",
+        "type": "Conference",
+        "acronyms": [
+            "SARA"
+        ],
+        "dblp": "sara"
+    },
+    {
+        "name": "Static Analysis Symposium",
+        "type": "Conference",
+        "acronyms": [
+            "SAS"
+        ],
+        "dblp": "sas"
+    },
+    {
+        "name": "International Conference on Theory and Applications of Satisfiability Testing",
+        "type": "Conference",
+        "acronyms": [
+            "SAT"
+        ],
+        "dblp": "sat"
+    },
+    {
+        "name": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
+        "type": "Conference",
+        "acronyms": [
+            "SCA"
+        ],
+        "dblp": "sca"
+    },
+    {
+        "name": "IEEE International Conference on Services Computing",
+        "type": "Conference",
+        "acronyms": [
+            "SCC"
+        ],
+        "dblp": "IEEEscc"
+    },
+    {
+        "name": "ACM Symposium on Computational Geometry",
+        "type": "Conference",
+        "acronyms": [
+            "SCG"
+        ],
+        "dblp": "compgeom"
+    },
+    {
+        "name": "International Workshop on Software and Compilers for Embedded Systems",
+        "type": "Conference",
+        "acronyms": [
+            "SCOPES"
+        ],
+        "dblp": "scopes"
+    },
+    {
+        "name": "SIAM International Conference on Data Mining",
+        "type": "Conference",
+        "acronyms": [
+            "SDM"
+        ],
+        "dblp": "sdm"
+    },
+    {
+        "name": "Unix Symposium on Operating Systems Design and Implementation",
+        "type": "Conference",
+        "acronyms": [
+            "SDSDI"
+        ],
+        "dblp": "osdi"
+    },
+    {
+        "name": "ACM Special Interest Group on Computer Science Education Conference",
+        "type": "Conference",
+        "acronyms": [
+            "SIGCSE"
+        ],
+        "dblp": "sigcse"
+    },
+    {
+        "name": "IEEE International Symposium on Software Metrics",
+        "type": "Conference",
+        "acronyms": [
+            "SMS"
+        ],
+        "dblp": "metrics"
+    },
+    {
+        "name": "Symposium on Parallelism in Algorithms and Architectures",
+        "type": "Conference",
+        "acronyms": [
+            "SPAA"
+        ],
+        "dblp": "spaa"
+    },
+    {
+        "name": "Software Process Improvement and Capability Determination",
+        "type": "Conference",
+        "acronyms": [
+            "SPICE"
+        ],
+        "dblp": "spice"
+    },
+    {
+        "name": "Symposium on Reliable Distributed Systems",
+        "type": "Conference",
+        "acronyms": [
+            "SRDS"
+        ],
+        "dblp": "srds"
+    },
+    {
+        "name": "International Conference on Scientific and Statistical Data Base Management",
+        "type": "Conference",
+        "acronyms": [
+            "SSDBM"
+        ],
+        "dblp": "ssdbm"
+    },
+    {
+        "name": "Structural and Statistical pattern recognition",
+        "type": "Conference",
+        "acronyms": [
+            "SSPR"
+        ],
+        "dblp": "sspr"
+    },
+    {
+        "name": "ACM Symposium on Software Reusability",
+        "type": "Conference",
+        "acronyms": [
+            "SSR"
+        ],
+        "dblp": "ssr"
+    },
+    {
+        "name": "International Symposium on Spatial Databases",
+        "type": "Conference",
+        "acronyms": [
+            "SSTD"
+        ],
+        "dblp": "ssd"
+    },
+    {
+        "name": "Symposium on Theoretical Aspects of Computer Science",
+        "type": "Conference",
+        "acronyms": [
+            "STACS"
+        ],
+        "dblp": "stacs"
+    },
+    {
+        "name": "ACM/IEEE Supercomputing Conference",
+        "type": "Conference",
+        "acronyms": [
+            "SUPER"
+        ],
+        "dblp": "sc"
+    },
+    {
+        "name": "Scandinavian Workshop on Algorithm Theory",
+        "type": "Conference",
+        "acronyms": [
+            "SWAT"
+        ],
+        "dblp": "swat"
+    },
+    {
+        "name": "International Conference on Theorem Proving with Analytic Tableaux and Related Methods",
+        "type": "Conference",
+        "acronyms": [
+            "TABLEAUX"
+        ],
+        "dblp": "tableaux"
+    },
+    {
+        "name": "Tools and Algorithms for Construction and Analysis of Systems",
+        "type": "Conference",
+        "acronyms": [
+            "TACAS"
+        ],
+        "dblp": "tacas"
+    },
+    {
+        "name": "Theoretical Aspects of Rationality and Knowledge",
+        "type": "Conference",
+        "acronyms": [
+            "TARK"
+        ],
+        "dblp": "tark"
+    },
+    {
+        "name": "International Symposium on Temporal Representation and Reasoning",
+        "type": "Conference",
+        "acronyms": [
+            "TIME"
+        ],
+        "dblp": "miccai"
+    },
+    {
+        "name": "Text Retrieval Conference",
+        "type": "Conference",
+        "acronyms": [
+            "TREC"
+        ],
+        "dblp": "trec"
+    },
+    {
+        "name": "ACM Symposium on User Interface Software and Technology",
+        "type": "Conference",
+        "acronyms": [
+            "UIST"
+        ],
+        "dblp": "uist"
+    },
+    {
+        "name": "International Conference on User Modelling",
+        "type": "Conference",
+        "acronyms": [
+            "UM"
+        ],
+        "dblp": "um"
+    },
+    {
+        "name": "USENIX Annual Technical Conference",
+        "type": "Conference",
+        "acronyms": [
+            "USENIX"
+        ],
+        "dblp": "usenix"
+    },
+    {
+        "name": "Usenix Security",
+        "type": "Conference",
+        "acronyms": [
+            "USENIX-Security"
+        ],
+        "dblp": "uss"
+    },
+    {
+        "name": "Unix Symposium on Internet Technologies",
+        "type": "Conference",
+        "acronyms": [
+            "USITS"
+        ],
+        "dblp": "usits"
+    },
+    {
+        "name": "SPIE International Conference on Visual Communications and Image Processing",
+        "type": "Conference",
+        "acronyms": [
+            "VCIP"
+        ],
+        "dblp": "vcip"
+    },
+    {
+        "name": "IEEE Visualization",
+        "type": "Conference",
+        "acronyms": [
+            "VIS"
+        ],
+        "dblp": "visualization"
+    },
+    {
+        "name": "IEEE Symposium on Visual Languages and Human-Centric Computing (was VL)",
+        "type": "Conference",
+        "acronyms": [
+            "VL/HCC"
+        ],
+        "dblp": "vl"
+    },
+    {
+        "name": "IEEE Symposium VLSI Circuits",
+        "type": "Conference",
+        "acronyms": [
+            "VLSI"
+        ],
+        "dblp": "vlsit"
+    },
+    {
+        "name": "Verification, Model Checking and Abstract Interpretation",
+        "type": "Conference",
+        "acronyms": [
+            "VMCAI"
+        ],
+        "dblp": "vmcai"
+    },
+    {
+        "name": "IEEE Workshop on Apps of Computer Vision",
+        "type": "Conference",
+        "acronyms": [
+            "WACV"
+        ],
+        "dblp": "wacv"
+    },
+    {
+        "name": "Workshop on Algorithms and Data Structures",
+        "type": "Conference",
+        "acronyms": [
+            "WADS"
+        ],
+        "dblp": "wads"
+    },
+    {
+        "name": "EEE/IFIP Working Conference on Software Architecture",
+        "type": "Conference",
+        "acronyms": [
+            "WICSA"
+        ],
+        "dblp": "wicsa"
+    },
+    {
+        "name": "International Conference on Web Information Systems Engineering",
+        "type": "Conference",
+        "acronyms": [
+            "WISE"
+        ],
+        "dblp": "wise"
+    },
+    {
+        "name": "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",
+        "type": "Conference",
+        "acronyms": [
+            "WoWMoM"
+        ],
+        "dblp": "wowmom"
+    },
+    {
+        "name": "International Conference on Theorem Proving in Higher Order Logics",
+        "type": "Conference",
+        "acronyms": [
+            "WPHOL"
+        ],
+        "dblp": "tphol"
+    }
+]
