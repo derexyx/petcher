@@ -7,7 +7,7 @@ petcher is a Python-based tool designed to automate the retrieval of publication
 - Crawl data from DBLP.
 - Scrape paper titles, authors, and publication dates.
 - Filter results based on specified keywords and search methods.
-- Loof for its availability on arXiv
+- Look for its availability on arXiv
 - Save extracted data in a tab-separated values (TSV) format.
 
 ## Installation
